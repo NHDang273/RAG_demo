@@ -1,5 +1,6 @@
 # RAG_test
 how to run project
+
 1 - clone this repo
 
 2 - create virtual environment
